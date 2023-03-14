@@ -34,7 +34,6 @@ I'm a Software Developer/ Data Scientist who studied physics and loves doing phy
 
 #### Top Technologies and tools
 
-
 [![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=white)](#)
 [![Numpy Badge](https://img.shields.io/badge/-Numpy-013243?style=for-the-badge&labelColor=black&logo=numpy&logoColor=white)](#)
 [![Jupyter Badge](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&labelColor=black&logo=jupyter&logoColor=white)](#)
@@ -48,8 +47,27 @@ I'm a Software Developer/ Data Scientist who studied physics and loves doing phy
 
 
 #### Bizness
-- :paperclip: [My Resumés/CV](https://github.com/DavidSiretMarques/DavidSiretMarques/tree/main/CV)
+- :paperclip: [My Resumé/CV (English)](https://github.com/DavidSiretMarques/DavidSiretMarques/blob/main/CV/CV-En-SW.pdf)
+- :paperclip: [Mon Resumé/CV (Français)](https://github.com/DavidSiretMarques/DavidSiretMarques/blob/main/CV/CV-Fra-SW.pdf)
+- :paperclip: [Mi Currículum/CV (Español)](https://github.com/DavidSiretMarques/DavidSiretMarques/blob/main/CV/CV-Spa-SW.pdf)
 - :email: david.siretmarques@gmail.com
 
+#### Profile Visits 
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=DavidSiretMarques.DavidSiretMarques)
+
+<details>
+	<summary>
+    	Get to know me more
+    </summary>
+
+I enjoy a lot learning new ways to program so I can progress more as a software developer and data scientist. Usually I tend to make small projects to test my new skills.
+
+#### Git hub Stats
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidSiretMarques&hide=contribs,prs&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidSiretMarques&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
+</details>
 
 
