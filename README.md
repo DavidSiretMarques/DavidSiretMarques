@@ -1,3 +1,8 @@
+<div align="center">
+<img src="https://raw.githubusercontent.com/DavidSiretMarques/DavidSiretMarques/main/headergitdark.gif#gh-dark-mode-only" align="center" height="325" />
+<img src="https://raw.githubusercontent.com/DavidSiretMarques/DavidSiretMarques/main/headergitlight.gif#gh-light-mode-only" align="center" height="325" />
+</div>
+
 ## Hi there, I'm David <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 
