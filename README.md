@@ -1,16 +1,3 @@
-<div align="center">
-<img src="https://raw.githubusercontent.com/DavidSiretMarques/DavidSiretMarques/main/headergitdark.gif#gh-dark-mode-only" align="center" height="325" />
-<img src="https://raw.githubusercontent.com/DavidSiretMarques/DavidSiretMarques/main/headergitlight.gif#gh-light-mode-only" align="center" height="325" />
-</div>
-
-## Hi there, I'm David <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
-
-
-:mailbox: Reach me out!
-
-[![Linkedin Badge](https://img.shields.io/badge/David-Marqués-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-marques-garcia-18ba30138/)
-[![Mail Badge](https://img.shields.io/badge/david.siretmarques@gmail.com-EA4335?style=flat&labelColor=EA4335&logo=gmail&logoColor=white)](mailto:david.siretmarques@gmail.com)
-
 
 <!--
 **DavidSiretMarques/DavidSiretMarques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,7 +12,27 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<!-- Link to get the color of different technologies for the badges: https://simpleicons.org/ -->
+
+<!--
+<div align="center">
+<img src="https://raw.githubusercontent.com/DavidSiretMarques/DavidSiretMarques/main/headergitdark.gif#gh-dark-mode-only" align="center" height="325" />
+<img src="https://raw.githubusercontent.com/DavidSiretMarques/DavidSiretMarques/main/headergitlight.gif#gh-light-mode-only" align="center" height="325" />
+</div>
+
 -->
+
+## Hi there, I'm David <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+
+
+:mailbox: Reach me out!
+
+[![Linkedin Badge](https://img.shields.io/badge/David-Marqués-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-marques-garcia-18ba30138/)
+[![Mail Badge](https://img.shields.io/badge/david.siretmarques@gmail.com-EA4335?style=flat&labelColor=EA4335&logo=gmail&logoColor=white)](mailto:david.siretmarques@gmail.com)
+[![Discord Badge](https://img.shields.io/badge/Thor-Pedo-7289DA?style=flat&labelColor=7289DA&logo=discord&logoColor=white)](https://discordapp.com/users/396032316935503872)
+
+
 
 I'm a Software Developer/ Data Scientist who studied physics and loves doing physics simulations and data analysis.
 
@@ -41,12 +48,11 @@ I'm a Software Developer/ Data Scientist who studied physics and loves doing phy
 
 [![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=white)](#)
 [![Jupyter Badge](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&labelColor=black&logo=jupyter&logoColor=white)](#)
-[![Numpy Badge](https://img.shields.io/badge/-Numpy-013243?style=for-the-badge&labelColor=black&logo=numpy&logoColor=white)](#)
+[![Anaconda Badge](https://img.shields.io/badge/-anaconda-44A833?style=for-the-badge&labelColor=black&logo=anaconda&logoColor=white)](#) 
 [![Scikitlearn Badge](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&labelColor=black&logo=scikit-learn&logoColor=white)](#)
 
-
+[![Numpy Badge](https://img.shields.io/badge/-Numpy-013243?style=for-the-badge&labelColor=black&logo=numpy&logoColor=white)](#)
 [![Pandas Badge](https://img.shields.io/badge/-pandas-150458?style=for-the-badge&labelColor=black&logo=pandas&logoColor=white)](#) 
-[![Selenium Badge](https://img.shields.io/badge/-selenium-43B02A?style=for-the-badge&labelColor=black&logo=selenium&logoColor=white)](#) 
 [![LaTeX Badge](https://img.shields.io/badge/-latex-008080?style=for-the-badge&labelColor=black&logo=latex&logoColor=white)](#) 
 [![HTML Badge](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=white)](#)
 
