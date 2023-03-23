@@ -46,21 +46,21 @@ I'm a Software Developer/ Data Scientist who studied physics and loves doing phy
 
 #### Top Technologies and tools
 
-[![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=white)](#)
-[![Jupyter Badge](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&labelColor=black&logo=jupyter&logoColor=white)](#)
-[![Anaconda Badge](https://img.shields.io/badge/-anaconda-44A833?style=for-the-badge&labelColor=black&logo=anaconda&logoColor=white)](#) 
-[![Scikitlearn Badge](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&labelColor=black&logo=scikit-learn&logoColor=white)](#)
+[![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat-square&labelColor=black&logo=python&logoColor=white)](#)
+[![Jupyter Badge](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&labelColor=black&logo=jupyter&logoColor=white)](#)
+[![Anaconda Badge](https://img.shields.io/badge/-Anaconda-44A833?style=flat-square&labelColor=black&logo=anaconda&logoColor=white)](#) 
+[![Spyder Badge](https://img.shields.io/badge/-Spyder-FF0000?style=flat-square&labelColor=black&logo=spyderide&logoColor=white)](#) 
 
-[![Numpy Badge](https://img.shields.io/badge/-Numpy-013243?style=for-the-badge&labelColor=black&logo=numpy&logoColor=white)](#)
-[![Pandas Badge](https://img.shields.io/badge/-pandas-150458?style=for-the-badge&labelColor=black&logo=pandas&logoColor=white)](#) 
-[![LaTeX Badge](https://img.shields.io/badge/-latex-008080?style=for-the-badge&labelColor=black&logo=latex&logoColor=white)](#) 
-[![HTML Badge](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=white)](#)
+[![Scikitlearn Badge](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&labelColor=black&logo=scikit-learn&logoColor=white)](#)
+[![Numpy Badge](https://img.shields.io/badge/-Numpy-013243?style=flat-square&labelColor=black&logo=numpy&logoColor=white)](#)
+[![Pandas Badge](https://img.shields.io/badge/-Pandas-150458?style=flat-square&labelColor=black&logo=pandas&logoColor=white)](#) 
+[![LaTeX Badge](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&labelColor=black&logo=latex&logoColor=white)](#)
 
 
-[![Appian Badge](https://img.shields.io/badge/-Appian-2322F0?style=for-the-badge&labelColor=black&logo=Appian&logoColor=white)](#) 
-[![SQlite Badge](https://img.shields.io/badge/-SQlite-003B57?style=for-the-badge&labelColor=black&logo=SQLite&logoColor=white)](#) 
-[![MySQL Badge](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&labelColor=black&logo=MySQL&logoColor=white)](#) 
-[![POSTGRES Badge](https://img.shields.io/badge/-Postgres-4169E1?style=for-the-badge&labelColor=black&logo=PostgreSQL&logoColor=white)](#) 
+[![Appian Badge](https://img.shields.io/badge/-Appian-2322F0?style=flat-square&labelColor=black&logo=Appian&logoColor=white)](#) 
+[![SQlite Badge](https://img.shields.io/badge/-SQlite-003B57?style=flat-square&labelColor=black&logo=SQLite&logoColor=white)](#) 
+[![MySQL Badge](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&labelColor=black&logo=MySQL&logoColor=white)](#) 
+[![POSTGRES Badge](https://img.shields.io/badge/-Postgres-4169E1?style=flat-square&labelColor=black&logo=PostgreSQL&logoColor=white)](#) 
 
 
 #### Bizness
