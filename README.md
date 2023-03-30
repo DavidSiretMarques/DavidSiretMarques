@@ -52,6 +52,9 @@ I'm a Software Developer/ Data Scientist who studied physics and loves doing phy
 [![Spyder Badge](https://img.shields.io/badge/-Spyder-FF0000?style=flat&labelColor=black&logo=spyderide&logoColor=white)](#) 
 
 [![Scikitlearn Badge](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat&labelColor=black&logo=scikit-learn&logoColor=white)](#)
+[![Keras Badge](https://img.shields.io/badge/Keras-D00000?style=flat&labelColor=black&logo=keras&logoColor=white)](#)
+[![Pytorch Badge](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&labelColor=black&logo=pytorch&logoColor=white)](#)
+
 [![Numpy Badge](https://img.shields.io/badge/-Numpy-013243?style=flat&labelColor=black&logo=numpy&logoColor=white)](#)
 [![Pandas Badge](https://img.shields.io/badge/-Pandas-150458?style=flat&labelColor=black&logo=pandas&logoColor=white)](#) 
 [![LaTeX Badge](https://img.shields.io/badge/-LaTeX-008080?style=flat&labelColor=black&logo=latex&logoColor=white)](#)
