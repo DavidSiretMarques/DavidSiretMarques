@@ -33,6 +33,10 @@ Here are some ideas to get you started:
 [![Discord Badge](https://img.shields.io/badge/Thor-Pedo-7289DA?style=flat&labelColor=7289DA&logo=discord&logoColor=white)](https://discordapp.com/users/396032316935503872)
 
 
+[![HackerRank Badge](https://img.shields.io/badge/David-Siret-00EA64?style=flat&labelColor=00EA64&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/david_siretmarq1)
+[![CodeWars Badge](https://img.shields.io/badge/Thor-Pedo-B1361E?style=flat&labelColor=B1361E&logo=codewars&logoColor=white)](https://www.codewars.com/users/Thor-Pedo)
+
+
 
 I'm a Software Developer/ Data Scientist who studied physics and loves doing physics simulations and data analysis.
 
