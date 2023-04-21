@@ -30,11 +30,12 @@ Here are some ideas to get you started:
 
 [![Linkedin Badge](https://img.shields.io/badge/David-Marqués-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-marques-garcia-18ba30138/)
 [![Mail Badge](https://img.shields.io/badge/david.siretmarques@gmail.com-EA4335?style=flat&labelColor=EA4335&logo=gmail&logoColor=white)](mailto:david.siretmarques@gmail.com)
-[![Discord Badge](https://img.shields.io/badge/Thor-Pedo-7289DA?style=flat&labelColor=7289DA&logo=discord&logoColor=white)](https://discordapp.com/users/396032316935503872)
+[![Discord Badge](https://img.shields.io/badge/ThorPedo-7289DA?style=flat&labelColor=7289DA&logo=discord&logoColor=white)](https://discordapp.com/users/396032316935503872)
 
 
 [![HackerRank Badge](https://img.shields.io/badge/David-Siret-00EA64?style=flat&labelColor=00EA64&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/david_siretmarq1)
-[![CodeWars Badge](https://img.shields.io/badge/Thor-Pedo-B1361E?style=flat&labelColor=B1361E&logo=codewars&logoColor=white)](https://www.codewars.com/users/Thor-Pedo)
+[![CodeWars Badge](https://img.shields.io/badge/ThorPedo-B1361E?style=flat&labelColor=B1361E&logo=codewars&logoColor=white)](https://www.codewars.com/users/Thor-Pedo)
+[![Stack Overflow Badge](https://img.shields.io/badge/David-Siret-F58025?style=flat&labelColor=F58025&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/21404794/david-siret-marqu%c3%a9s)
 
 
 
@@ -71,9 +72,9 @@ I'm a Software Developer/ Data Scientist who studied physics and loves doing phy
 
 
 #### Bizness
-- :paperclip: [My Resumé/CV (English)](https://github.com/DavidSiretMarques/DavidSiretMarques/blob/main/CV/CV-En-SW.pdf)
-- :paperclip: [Mon Resumé/CV (Français)](https://github.com/DavidSiretMarques/DavidSiretMarques/blob/main/CV/CV-Fra-SW.pdf)
-- :paperclip: [Mi Currículum/CV (Español)](https://github.com/DavidSiretMarques/DavidSiretMarques/blob/main/CV/CV-Spa-SW.pdf)
+- :paperclip: [My Resumé/CV (English)](https://github.com/DavidSiretMarques/DavidSiretMarques/blob/main/CV/CV-En-SW-Full.pdf)
+- :paperclip: [Mon Resumé/CV (Français)](https://github.com/DavidSiretMarques/DavidSiretMarques/blob/main/CV/CV-Fra-SW-Full.pdf)
+- :paperclip: [Mi Currículum/CV (Español)](https://github.com/DavidSiretMarques/DavidSiretMarques/blob/main/CV/CV-Spa-SW-Full.pdf)
 - :email: david.siretmarques@gmail.com
 
 #### Profile Visits 
