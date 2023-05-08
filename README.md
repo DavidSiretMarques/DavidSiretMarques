@@ -89,9 +89,9 @@ I'm a Software Developer/ Data Scientist who studied physics and loves doing phy
 I enjoy a lot learning new ways to program so I can progress more as a software developer and data scientist. Usually I tend to make small projects to test my new skills.
 
 #### Git hub Stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidSiretMarques&hide=contribs,prs&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidSiretMarques&count_private=true&hide=prs&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidSiretMarques&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidSiretMarques&size_weight=0.5&count_weight=0.5&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
