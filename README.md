@@ -46,7 +46,7 @@ I'm a Software Developer/ Data Scientist who studied physics and loves doing phy
 - 💬 Ask me about the three body problem simulation
 - 💻 Most used line of code `print()`
 - 📫 How to reach me: david.siretmarques@gmail.com
-- ⚡ Fun fact: I do a ton of exercise and sports. I love doing parkour
+- ⚡ Fun fact: I'm also a parkour teacher
 
 
 #### Top Technologies and tools
